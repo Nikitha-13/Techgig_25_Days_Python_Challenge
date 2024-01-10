@@ -1,4 +1,4 @@
-      ## Techgig_30Days_Python_Challenge
+       ## Techgig_30Days_Python_Challenge
 
 Welcome to the 30 Days Coding Challenge repository! This repository contains my solutions for the 30-day coding challenge that I am participating in Techgig. Each day, I will be solving a coding problem and uploading my solution here. 
 
